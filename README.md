@@ -55,9 +55,9 @@ More [Examples](https://sortablejs.github.io/sortablejs).
 
 Configurations
 -------
-For plugin configuration see SortableJS [Options](https://github.com/SortableJS/sortablejs#options).
+For this extension configuration see SortableJS [Options](https://github.com/SortableJS/sortablejs#options).
 
 License
 -------
 
-**yii2-sortablejs** is released under the BSD 3-Clause License. See the [LICENSE.md](LICENSE.md) for details.
+**yii2-sortablejs** is released under the Apache 2.0 License. See the [LICENSE.md](LICENSE.md) for details.
