@@ -1,0 +1,33 @@
+{
+  "name": "toir427/yii2-sortablejs",
+  "description": "Yii2 implementation of SortableJS extension. To create and reorder lists with drag-and-drop. For use with modern browsers and touch devices.",
+  "keywords": ["yii2", "sortablejs", "sortable"],
+  "type": "yii2-extension",
+  "license": "Apache-2.0",
+  "support": {
+    "issues": "https://github.com/toir427/yii2-sortablejs/issues",
+    "source": "https://github.com/toir427/yii2-sortablejs"
+  },
+  "authors": [
+    {
+      "name": "Tuychiev Toir",
+      "email": "toir427@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "yiisoft/yii2": "~2.0.0",
+    "npm-asset/sortablejs": "~1.12.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "toir427\\sortablejs\\": "src"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
